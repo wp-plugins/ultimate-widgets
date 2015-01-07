@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Ultimate Widgets plugin allows you to add the most popular widgets
+Ultimate Widgets allows you to add the most popular widgets in one plugin
 
 == Description ==
 
