@@ -4,7 +4,7 @@ Tags: widget, sidebar, khositeweb, aktina, about me widget, ads widget, contact 
 Donate link: http://khositeweb.com/donate/
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,11 +17,9 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 * [DEMO](http://khositeweb.com/demo/aktina/blog-thumbnails/)
 * [DEMO 2](http://khositeweb.com/demo/aktina/shop/)
 
- 
-
 == Ulimate Widgets Needs Your Support ==
 
-If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin\'s continued development and better user support.
+If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
 
 Ultimate Widgets plugin allows you to add the most popular widgets like Ads, Contact Info, Facebook Like Box, Google Map, Testomonial, Twitter Widget, Social Widget, Soundclound, etc...
   
