@@ -17,28 +17,28 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 * [DEMO 1](http://khositeweb.com/demo/aktina/blog-thumbnails/)
 * [DEMO 2](http://khositeweb.com/demo/aktina/shop/)
 
-== Ulimate Widgets Needs Your Support ==
+= Ulimate Widgets Needs Your Support =
 
 If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
 
-== Widgets Available: ==
+= Widgets Available: =
 
-1. Widget – About Me
-1. Widget – Ads
-1. Widget – Contact Info
-1. Widget – Facebook Like Box
-1. Widget – Flickr Stream
-1. Widget – Google Map
-1. Widget – MailChimp
-1. Widget – Posts Slider
-1. Widget – Posts Thumbnails
-1. Widget – Slideshow
-1. Widget – Social Widget
-1. Widget – Soundcloud
-1. Widget – Testimonial
-1. Widget – Twitter
-1. Widget – Video
-1. Widget – Weather
+* Widget – About Me
+* Widget – Ads
+* Widget – Contact Info
+* Widget – Facebook Like Box
+* Widget – Flickr Stream
+* Widget – Google Map
+* Widget – MailChimp
+* Widget – Posts Slider
+* Widget – Posts Thumbnails
+* Widget – Slideshow
+* Widget – Social Widget
+* Widget – Soundcloud
+* Widget – Testimonial
+* Widget – Twitter
+* Widget – Video
+* Widget – Weather
 
 == Installation ==
 
