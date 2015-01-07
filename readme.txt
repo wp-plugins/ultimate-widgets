@@ -13,16 +13,14 @@ Ultimate Widgets plugin allows you to add the most popular widgets like
 == Description ==
 
 You can see the demo of this plugin in our responsive premium theme [Aktina - Responsive Multi-Purpose WordPress Theme](http://themeforest.net/item/aktina-responsive-multipurpose-wordpress-theme/9670301?ref=khositeweb)
-
 * [DEMO 1](http://khositeweb.com/demo/aktina/blog-thumbnails/)
 * [DEMO 2](http://khositeweb.com/demo/aktina/shop/)
 
 == Ulimate Widgets Needs Your Support ==
 
 If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
-  
-== Widgets Available: ==
-  
+
+**Widgets Available:**
 * Widget – About Me
 * Widget – Ads
 * Widget – Contact Info
@@ -50,5 +48,6 @@ If you enjoy using Ulimate Widgets and find it useful, please consider [__making
 [Support Forum](http://wordpress.org/support/plugin/ultimate-widgets)
 
 == Screenshots ==
+
 1. screenshot-1.png
 1. screenshot-2.png
