@@ -21,7 +21,7 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 
 = Ulimate Widgets Needs Your Support =
 
-If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
+If you enjoy using Ultimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation would make me happy, imagine if every user was paying up to $1, for you, it’s not much, for me it’s huge.
 
 = Widgets Available: =
 
