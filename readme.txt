@@ -14,8 +14,10 @@ Ultimate Widgets allows you to add the most popular widgets in one plugin
 
 You can see the demo of this plugin in our responsive premium theme [Aktina - Responsive Multi-Purpose WordPress Theme](http://themeforest.net/item/aktina-responsive-multipurpose-wordpress-theme/9670301?ref=khositeweb)
 
-* [DEMO 1](http://khositeweb.com/demo/aktina/blog-thumbnails/)
-* [DEMO 2](http://khositeweb.com/demo/aktina/shop/)
+* [DEMO 1](http://khositeweb.com/demo/aktina/)
+* [DEMO 2](http://khositeweb.com/demo/aktina/blog-thumbnails/)
+* [DEMO 3](http://khositeweb.com/demo/aktina/blog-slide-post/)
+* [DEMO 4](http://khositeweb.com/demo/aktina/shop/)
 
 = Ulimate Widgets Needs Your Support =
 
