@@ -51,5 +51,5 @@ If you enjoy using Ulimate Widgets and find it useful, please consider [__making
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. screenshot-1.PNG
 1. screenshot-2.png
