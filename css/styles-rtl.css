@@ -1,0 +1,20 @@
+.fa-angle-left:before {content: "\f105";}
+.fa-angle-right:before {content: "\f104";}
+.ads_widget a.righter, .ks-widget-recent-posts.style-fullinfoinside .ks-widget-recent-posts-comments, .today_weather .big_icon {float: left !important;}
+.ads_widget a, .about-me .about-me-header .about-me-avatar, .about-me .about-me-header .about-me-name, .ks-flickr-widget .flickr_badge_image, .posts-slider .ks-posts-slider-nav li, .ks-recent-posts-thumb-grid li, .ks-widget-recent-posts-thumbnail, .ks-social-widget li, .uw-testimonial-entry-thumb, .details_w {float: right !important;}
+.uw-testimonial-entry-thumb {margin-left: 0; margin-right: 7px;}
+#jtwt .jtwt_tweet:before {margin-left: 0; margin-right: -45px;}
+.about-me .about-me-header .about-me-avatar {margin-right: 0; margin-left: 15px;}
+.contact_info_widget p i, .contact_info_widget span i {margin-right: 0; margin-left: 10px;}
+.ks-flickr-widget {margin-right: 0; margin-left: -10px;}
+.ks-flickr-widget .flickr_badge_image {margin-right: 0; margin-left: 4%;}
+.ks-recent-posts-thumb-grid li {margin-right: 0; margin-left: 5px;}
+.ks-widget-recent-posts-thumbnail {margin-right: 0; margin-left: 10px;}
+.ks-widget-recent-posts-date i,
+.ks-widget-recent-posts-comments i {margin-right: 0; margin-left: 4px;}
+.ks-widget-recent-posts-date {margin-right: 0; margin-left: 8px;}
+.ks-social-widget li {margin-right: 0 !important; margin-left: 5px !important;}
+.uw-testimonial-entry-meta {text-align: left;}
+.uw-testimonial-caret {border-right: 0; border-left: 20px solid rgba(204, 204, 204, 0); left: auto; right: 6.5em;}
+.posts-slider .ks-widget-recent-posts.style-fullinfoinside .ks-widget-recent-posts-title {padding: 28px 10px 10px 55px !important;}
+.posts-slider .ks-posts-slider-nav {right: auto; left: 10px !important;}

@@ -1,0 +1,746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aktina\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-05 17:47+0100\n"
+"PO-Revision-Date: 2015-01-05 17:54+0100\n"
+"Last-Translator: Nick <support@khosite.com>\n"
+"Language-Team: khositeweb.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"_nx_noop:4c,1,2;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../widgets/widget-about-me.php:12
+msgid "Adds About Me widget."
+msgstr ""
+
+#: ../widgets/widget-about-me.php:15
+msgid "Widget - About Me"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:107
+msgid "About Me"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:150 ../widgets/widget-contact-info.php:91
+#: ../widgets/widget-facebook-like-box.php:84
+#: ../widgets/widget-flickr.php:64 ../widgets/widget-gmap.php:119
+#: ../widgets/widget-posts-slider.php:134
+#: ../widgets/widget-posts-thumbnails.php:123
+#: ../widgets/widget-slideshow.php:109 ../widgets/widget-social.php:181
+#: ../widgets/widget-testimonials.php:112 ../widgets/widget-tweets.php:168
+#: ../widgets/widget-video.php:91
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:154
+msgid "Background Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:158
+msgid "Text Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:162
+msgid "Avatar Border Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:166
+msgid "Image Header:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:170
+msgid "Avatar:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:174
+msgid "Name:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:178 ../widgets/widget-contact-info.php:95
+#: ../widgets/widget-mailchimp.php:78
+msgid "Text:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:182
+msgid "Social Style:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:185 ../widgets/widget-social.php:193
+msgid "Color"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:186 ../widgets/widget-social.php:191
+msgid "Light"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:187
+msgid "Dark"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:191
+msgid "Social Link Target:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:194 ../widgets/widget-social.php:212
+msgid "Blank"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:195 ../widgets/widget-social.php:213
+msgid "Self"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:198 ../widgets/widget-social.php:235
+msgid "Social Links"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:199 ../widgets/widget-social.php:236
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../widgets/widget-ads.php:12
+msgid "A widget that displays ads in sidebar."
+msgstr ""
+
+#: ../widgets/widget-ads.php:15
+msgid "Widget - Ads"
+msgstr ""
+
+#: ../widgets/widget-ads.php:136
+msgid "Ads Title (Optional):"
+msgstr ""
+
+#: ../widgets/widget-ads.php:141
+msgid "Ad 1 Image URL: 320x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:146
+msgid "Ad 1 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:151
+msgid "Ad 2 Image URL: 320x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:156
+msgid "Ad 2 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:161
+msgid "Ad 3 Image URL: 155x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:166
+msgid "Ad 3 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:171
+msgid "Ad 4 Image URL: 155x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:176
+msgid "Ad 4 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:181
+msgid "Ad 5 Image URL: 155x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:186
+msgid "Ad 5 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:191
+msgid "Ad 6 Image URL: 155x155"
+msgstr ""
+
+#: ../widgets/widget-ads.php:196
+msgid "Ad 6 Link:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:12
+msgid "Adds support for Contact Info."
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:15
+msgid "Widget - Contact Info"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:99
+msgid "Address:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:103
+msgid "Phone:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:107
+msgid "Mobile:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:111
+msgid "Fax:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:115
+msgid "Email:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:119
+msgid "Email Link Text:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:123
+msgid "Website URL (with HTTP):"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:127
+msgid "Website URL Text:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:131
+msgid "Skype:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:12
+msgid "Adds support for Facebook Like Box."
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:15
+msgid "Widget - Facebook Like Box"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:89
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:94
+msgid "Width:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:101
+msgid "light"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:102
+msgid "dark"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:108
+msgid "Show faces"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:113
+msgid "Show stream"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:118
+msgid "Show facebook header"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:12
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:15
+msgid "Widget - Flickr Stream"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:69
+msgid "Flickr ID "
+msgstr ""
+
+#: ../widgets/widget-flickr.php:71
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:75
+msgid "Number:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:13
+msgid "Displays google map."
+msgstr ""
+
+#: ../widgets/widget-gmap.php:16
+msgid "Widget - Google Map"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:122
+msgid "Latitude:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:125
+msgid "Longitude:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:128
+msgid "Zoom"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:133
+msgid "Height:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:137
+msgid "Enable Scroll Wheel"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:141
+msgid "Enable Pan Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:144
+msgid "Enable Zoom Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:147
+msgid "Enable Map Type Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:150
+msgid "Enable Scale Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:153
+msgid "Enable Draggable"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:12
+msgid "Displays Mailchimp Subscription Form."
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:15
+msgid "Widget - MailChimp"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:72
+msgid "Title"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:83
+msgid "MailChimp Form Action:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:88
+msgid "Placeholder:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:93
+msgid "Button title:"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:12
+msgid "Displays a posts slider."
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:15
+msgid "Widget - Posts Slider"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:61
+#: ../widgets/widget-posts-thumbnails.php:73
+msgid "0"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:61
+#: ../widgets/widget-posts-thumbnails.php:73
+msgid "1"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:61
+#: ../widgets/widget-posts-thumbnails.php:73
+msgid "%"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:116
+msgid "Posts Slider"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:139
+#: ../widgets/widget-posts-thumbnails.php:138
+msgid "Post Type?"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:142
+#: ../widgets/widget-posts-thumbnails.php:141
+msgid "Post"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:157
+#: ../widgets/widget-posts-thumbnails.php:156
+msgid "Random or Recent?"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:160
+#: ../widgets/widget-posts-thumbnails.php:159
+msgid "Recent"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:161
+#: ../widgets/widget-posts-thumbnails.php:160
+msgid "Random"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:162
+#: ../widgets/widget-posts-thumbnails.php:161
+msgid "Most Comments"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:163
+#: ../widgets/widget-posts-thumbnails.php:162
+msgid "Last Modified"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:168
+#: ../widgets/widget-posts-thumbnails.php:167
+msgid "Number to Show"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:173
+#: ../widgets/widget-posts-thumbnails.php:172
+msgid "Image Crop Width"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:175
+#: ../widgets/widget-posts-thumbnails.php:174
+msgid "Enter 9999 for dafault width"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:179
+#: ../widgets/widget-posts-thumbnails.php:178
+msgid "Image Crop Height"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:181
+#: ../widgets/widget-posts-thumbnails.php:180
+msgid "Enter 9999 for dafault height"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:186
+#: ../widgets/widget-posts-thumbnails.php:190
+msgid "Disable Date & Comments ?"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:12
+msgid "Shows a listing of your recent or random posts."
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:15
+msgid "Widget - Posts Thumbnails"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:101
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:128
+#: ../widgets/widget-social.php:186
+msgid "Style"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:131
+msgid "Small Image"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:132
+msgid "Full Image"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:133
+msgid "Full & Info Inside"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:185
+msgid "Disable Featured Image?"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:12
+msgid "Displays a mini slideshow."
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:15
+msgid "Widget - Slideshow"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:114
+msgid "Image width"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:119
+msgid "Image height"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:124
+msgid "How many slides?"
+msgstr ""
+
+#: ../widgets/widget-social.php:12
+msgid "Displays icons with links to your social profiles."
+msgstr ""
+
+#: ../widgets/widget-social.php:15
+msgid "Widget - Social Widget"
+msgstr ""
+
+#: ../widgets/widget-social.php:83
+msgid "Follow Us"
+msgstr ""
+
+#: ../widgets/widget-social.php:189
+msgid "Black"
+msgstr ""
+
+#: ../widgets/widget-social.php:190
+msgid "Black With Color Hover"
+msgstr ""
+
+#: ../widgets/widget-social.php:192
+msgid "Light With Color Hover"
+msgstr ""
+
+#: ../widgets/widget-social.php:194
+msgid "Just Icons"
+msgstr ""
+
+#: ../widgets/widget-social.php:199
+msgid "Transition"
+msgstr ""
+
+#: ../widgets/widget-social.php:202
+msgid "Float"
+msgstr ""
+
+#: ../widgets/widget-social.php:203
+msgid "Rotate"
+msgstr ""
+
+#: ../widgets/widget-social.php:204
+msgid "Zoom Out"
+msgstr ""
+
+#: ../widgets/widget-social.php:209
+msgid "Link Target:"
+msgstr ""
+
+#: ../widgets/widget-social.php:218
+msgid "Icon Size"
+msgstr ""
+
+#: ../widgets/widget-social.php:220
+msgid "Enter a size to be used for the height/width for the icon."
+msgstr ""
+
+#: ../widgets/widget-social.php:224
+msgid "Icon Font Size"
+msgstr ""
+
+#: ../widgets/widget-social.php:226
+msgid "Enter a custom font size for the icons."
+msgstr ""
+
+#: ../widgets/widget-social.php:230
+msgid "Border Radius"
+msgstr ""
+
+#: ../widgets/widget-social.php:232
+msgid ""
+"Enter a custom border radius. For circular icons enter a number equal or "
+"greater to the Icon Size field above."
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:15
+msgid "Widget - Soundcloud"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:55
+msgid "Title :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:59
+msgid "URL :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:63
+msgid "Height :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:67
+msgid "Autoplay :"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:12
+msgid "Displays a testimonial slider."
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:15
+msgid "Widget - Testimonial"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:117
+msgid "Number of Testimonials:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:11
+msgid "Adds support for your tweets."
+msgstr ""
+
+#: ../widgets/widget-tweets.php:15
+msgid "Widget - Twitter Widget"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "second"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "minute"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "hour"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "day"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "week"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "month"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "year"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:128
+msgid "decade"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:132
+msgid "ago"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:141
+msgid "s"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:173
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:178
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:183
+msgid "Access Token:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:188
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:193
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../widgets/widget-tweets.php:197
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../widgets/widget-video.php:12
+msgid "Add a video in your sidebar."
+msgstr ""
+
+#: ../widgets/widget-video.php:15
+msgid "Widget - Video"
+msgstr ""
+
+#: ../widgets/widget-video.php:95
+msgid "Type:"
+msgstr ""
+
+#: ../widgets/widget-video.php:97
+msgid "Youtube"
+msgstr ""
+
+#: ../widgets/widget-video.php:98
+msgid "Vimeo"
+msgstr ""
+
+#: ../widgets/widget-video.php:99
+msgid "Dailymotion"
+msgstr ""
+
+#: ../widgets/widget-video.php:100
+msgid "bliptv"
+msgstr ""
+
+#: ../widgets/widget-video.php:101
+msgid "viddler"
+msgstr ""
+
+#: ../widgets/widget-video.php:106
+msgid "Clip Id:"
+msgstr ""
+
+#: ../widgets/widget-video.php:109
+msgid "Width"
+msgstr ""
+
+#: ../widgets/widget-weather.php:11
+msgid "Displays weather in the sidebar."
+msgstr ""
+
+#: ../widgets/widget-weather.php:14
+msgid "Widget - Weather"
+msgstr ""
+
+#: ../widgets/widget-weather.php:152
+msgid "Humidity:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:153
+msgid "Wind:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:153
+msgid "km/h"
+msgstr ""
+
+#: ../widgets/widget-weather.php:204
+msgid "Location ID:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:208
+msgid "Weather unit:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:210
+msgid "Celsius"
+msgstr ""
+
+#: ../widgets/widget-weather.php:211
+msgid "Fahrenheit"
+msgstr ""
+
+#: ../widgets/widget-weather.php:214
+msgid "Seach your ID here: http://weather.yahoo.com/"
+msgstr ""
