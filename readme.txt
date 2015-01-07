@@ -22,7 +22,7 @@ If you enjoy using Ulimate Widgets and find it useful, please consider [__making
 
 Ultimate Widgets plugin allows you to add the most popular widgets like Ads, Contact Info, Facebook Like Box, Google Map, Testomonial, Twitter Widget, Social Widget, Soundclound, etc...
 
-Widgets Available:
+= Widgets Available: =
 * Widget – About Me
 * Widget – Ads
 * Widget – Contact Info
