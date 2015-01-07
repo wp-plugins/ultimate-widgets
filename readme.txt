@@ -21,6 +21,7 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
 
 **Widgets Available:**
+
 * Widget – About Me
 * Widget – Ads
 * Widget – Contact Info
