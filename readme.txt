@@ -53,3 +53,4 @@ Ultimate Widgets plugin allows you to add the most popular widgets like Ads, Con
 
 == Screenshots ==
 1. screenshot-1.png
+1. screenshot-2.png
