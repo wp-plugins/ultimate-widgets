@@ -1,4 +1,4 @@
-=== Ulimate Widgets ===
+=== Ultimate Widgets ===
 Contributors: Khositeweb
 Tags: widget, sidebar, khositeweb, aktina, about me widget, ads widget, contact info widget, facebook like box widget, flickr widget, gmap widget, mailchimp widget, posts slider widget, posts thumbnails widget, slideshow widget, social widget, soundcloud widget, testimonials widget, tweets widget, video widget, weather widget
 Donate link: http://khositeweb.com/donate/
@@ -13,6 +13,7 @@ Ultimate Widgets plugin allows you to add the most popular widgets like
 == Description ==
 
 You can see the demo of this plugin in our responsive premium theme [Aktina - Responsive Multi-Purpose WordPress Theme](http://themeforest.net/item/aktina-responsive-multipurpose-wordpress-theme/9670301?ref=khositeweb)
+
 * [DEMO 1](http://khositeweb.com/demo/aktina/blog-thumbnails/)
 * [DEMO 2](http://khositeweb.com/demo/aktina/shop/)
 
@@ -20,24 +21,24 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 
 If you enjoy using Ulimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation will help encourage and support the plugin's continued development and better user support.
 
-**Widgets Available:**
+== Widgets Available: ==
 
-* Widget – About Me
-* Widget – Ads
-* Widget – Contact Info
-* Widget – Facebook Like Box
-* Widget – Flickr Stream
-* Widget – Google Map
-* Widget – MailChimp
-* Widget – Posts Slider
-* Widget – Posts Thumbnails
-* Widget – Slideshow
-* Widget – Social Widget
-* Widget – Soundcloud
-* Widget – Testimonial
-* Widget – Twitter
-* Widget – Video
-* Widget – Weather
+1. Widget – About Me
+1. Widget – Ads
+1. Widget – Contact Info
+1. Widget – Facebook Like Box
+1. Widget – Flickr Stream
+1. Widget – Google Map
+1. Widget – MailChimp
+1. Widget – Posts Slider
+1. Widget – Posts Thumbnails
+1. Widget – Slideshow
+1. Widget – Social Widget
+1. Widget – Soundcloud
+1. Widget – Testimonial
+1. Widget – Twitter
+1. Widget – Video
+1. Widget – Weather
 
 == Installation ==
 
