@@ -19,9 +19,9 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 * [DEMO 3](http://khositeweb.com/demo/aktina/blog-slide-post/)
 * [DEMO 4](http://khositeweb.com/demo/aktina/shop/)
 
-= Ulimate Widgets Needs Your Support =
+= Follow us on Twitter =
 
-If you enjoy using Ultimate Widgets and find it useful, please consider [__making a donation__](http://khositeweb.com/donate/). Your donation would make me happy, imagine if every user was paying up to $1, for you, it’s not much, for me it’s huge.
+Keep you informed, you will not be disappointed. [__@Khositeweb__](https://twitter.com/Khositeweb)
 
 = Widgets Available: =
 
