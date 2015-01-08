@@ -21,7 +21,7 @@ You can see the demo of this plugin in our responsive premium theme [Aktina - Re
 
 = Follow us on Twitter =
 
-Keep you informed, you will not be disappointed. [__@Khositeweb__](https://twitter.com/Khositeweb)
+Keep you informed, you will not be disappointed. [@Khositeweb](https://twitter.com/Khositeweb)
 
 = Widgets Available: =
 
