@@ -53,4 +53,5 @@ If you enjoy using Ultimate Widgets and find it useful, please consider [__makin
 
 == Screenshots ==
 
-1. screenshot-1.jpg
+1. Front-end widgets
+2. Back-end widgets
