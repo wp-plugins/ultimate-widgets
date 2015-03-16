@@ -1,6 +1,6 @@
 === Ultimate Widgets ===
 Contributors: Khositeweb
-Tags: widget, sidebar, khositeweb, aktina, about me widget, ads widget, contact info widget, facebook like box widget, flickr widget, gmap widget, mailchimp widget, posts slider widget, posts thumbnails widget, slideshow widget, social widget, soundcloud widget, testimonials widget, tweets widget, video widget, weather widget
+Tags: widget, sidebar, about me widget, ads widget, contact info widget, facebook like box widget, flickr widget, gmap widget, mailchimp widget, posts slider widget, posts thumbnails widget, slideshow widget, social widget, soundcloud widget, testimonials widget, tweets widget, video widget, weather widget
 Donate link: http://khositeweb.com/donate/
 Requires at least: 3.9
 Tested up to: 4.1
