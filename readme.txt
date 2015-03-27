@@ -12,7 +12,7 @@ Ultimate Widgets allows you to add the most popular widgets in one plugin
 
 == Description ==
 
-You can see the demo of this plugin in our responsive premium theme [Aktina - Responsive Multi-Purpose WordPress Theme](http://themeforest.net/item/aktina-responsive-multipurpose-wordpress-theme/9670301?ref=khositeweb)
+You can see the demo of this plugin here: [Demo](http://khositeweb.com/preview/aktina/vitae-pharetra-auctor/)
 
 = Follow us on Twitter =
 
