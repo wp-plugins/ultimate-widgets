@@ -12,7 +12,9 @@ Ultimate Widgets allows you to add the most popular widgets in one plugin
 
 == Description ==
 
-You can see the demo of this plugin here: [Demo](http://khositeweb.com/preview/aktina/vitae-pharetra-auctor/)
+You can see the demo of this plugin here:
+[Demo 1](http://khositeweb.com/preview/aktina/vitae-pharetra-auctor/)
+[Demo 2](http://khositeweb.com/preview/aktina/shop/)
 
 = Follow us on Twitter =
 
